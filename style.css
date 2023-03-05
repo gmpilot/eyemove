@@ -47,7 +47,7 @@
   left: 25%;
   width: 150px;
   height: 80px;
-  background-color: brown;
+  background-color: #ff1493;
   position: absolute;
   border-bottom-left-radius: 70px;
   border-bottom-right-radius: 70px;
@@ -86,7 +86,7 @@
   position: absolute;
   width: 40px;
   height: 40px;
-  background-color: rgb(255, 255, 255);
+  background-color: black;
   border-radius: 50%;
   top: 30px;
   left: 30px;
